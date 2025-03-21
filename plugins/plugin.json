@@ -1,0 +1,7 @@
+{
+    "id": "deepseek-r1-manga",
+    "name": "DeepSeek-R1 Manga Recommender",
+    "version": "1.0.0",
+    "lang": "python",
+    "entry": "deepseek.py"
+  }
